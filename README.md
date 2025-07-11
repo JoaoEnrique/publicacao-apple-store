@@ -36,7 +36,7 @@ Adicione uma descrição para o App ID e o valor do Bundle ID, como: com.fateczl
 
 <img src="./img/Imagem10.png?v=1">
 
-## Criar App
+# Criar App
 A após ter criado o Bundle ID, é preciso criar o app (é possível adicionar permissão para os alunos criarem o aplicativo, portanto apenas a etapa de criação do Bundle ID é preciso ser feito pela Fatec).
 
 Acesse a conta em: https://developer.apple.com/account e selecione em "App Store Connect" a primeira opção, "Apps".
@@ -57,7 +57,7 @@ Preencha todas as informações que foram solicitadas
 # Alunos
 Manual para os alunos aceitarem o convite e gerenciarem os aplicativos
 
-### Aceitar convite
+## Aceitar convite
 Ao abrir o link do convite, é necessário criar uma conta na Apple se não tiver. Preecnha todos os dados e clique em Continuar, confirme seu email e número de telefone. É possível e provavel que de erro. Você pode tentar novamente ou criar uma conta por um dispositivo iOS ou MacOS, que facilita na criação. por fim, aceite os termos de uso.
 
 <img src="./img/Imagem1.png?v=1">
@@ -65,7 +65,7 @@ Ao abrir o link do convite, é necessário criar uma conta na Apple se não tive
 <img src="./img/Imagem3.png?v=1">
 <img src="./img/Imagem4.png?v=1">
 
-### Apps
+## Apps
 Após aceitar o convite, você verá uma tela como essa, com os aplicativos que você tem acesso no [Apple Store Connect](https://appstoreconnect.apple.com/apps)
 
 <img src="./img/Imagem5.png?v=1">
@@ -75,7 +75,7 @@ Ao selecionar o aplicativo, é apresentado a tela de configuração do app que c
 
 <img src="./img/Imagem6.png?v=1">
 
-### Plataformas
+## Plataformas
 Na parte superior direita do aplicativo é listado todas as plataformas selecionadas para seu app (iOS, macOS, tvOS ou visionOS) e em cada uma é possível adicionar captura de telas e descrições sobre o aplicativo.
 
 <img src="./img/Imagem15.jpeg?v=1">
@@ -90,28 +90,28 @@ As capturas de tela devem estar no formato JPG ou PNG e no espaço de cores RGB.
 
 Mais abaixo, é preciso aidionar as informações do seu aplicativo. Nenhuma dessas informações é obrigatória.
 
-#### Texto promocional:
+##### Texto promocional:
 O texto promocional permite que você informe os visitantes da App Store sobre os recursos atuais do aplicativo sem exigir um envio atualizado. Esse texto aparecerá acima da sua descrição na App Store para clientes com dispositivos com iOS 11 ou posterior e macOS 10.13 ou posterior.
 
-#### Descrição
+##### Descrição
 Uma descrição do seu aplicativo, detalhando os recursos e funcionalidades.
 
-#### Keywords
+##### Keywords
 Inclua uma ou mais palavras-chave que descrevam seu aplicativo. As palavras-chave tornam os resultados de pesquisa da App Store mais precisos. Separe as palavras-chave com uma vírgula em inglês, uma vírgula em chinês ou uma mistura de ambas.
 
-#### URL de suporte
+##### URL de suporte
 Uma URL com informações de suporte para seu aplicativo. Isso aparece na página do produto do seu aplicativo assim que você lança seu aplicativo na App Store.
 
-#### Marketing URL
+##### Marketing URL
 Um URL com informações de marketing sobre seu aplicativo. Este URL ficará visível na App Store.
 
-#### Versão
+##### Versão
 A versão do aplicativo que você está adicionando. A numeração deve seguir as convenções de controle de versão de software.
 
-#### Direitos autorais
+##### Direitos autorais
 O nome da pessoa ou entidade que detém os direitos exclusivos do seu aplicativo, precedido pelo ano em que os direitos foram obtidos (por exemplo, "2008 Acme Inc."). Não forneça uma URL.
 
-#### Arquivo de cobertura de aplicativo de roteamento
+##### Arquivo de cobertura de aplicativo de roteamento
 Especifique as regiões geográficas compatíveis com seu aplicativo. O arquivo deve estar no formato .geojson e pode conter apenas um elemento MultiPolygon. [Saiba Mais](https://developer.apple.com/help/app-store-connect/reference/platform-version-information)
 
 <img src="./img/Imagem19.png?v=2">
