@@ -3,7 +3,7 @@ Documentação criada para os alunos e para a Fatec Zona Leste publicar seus apl
 
 Documentação para a Play Store: https://github.com/JoaoEnrique/publicacao-play-store
 
-LInk da Apple Store Connect, onde os apps são gerenciados: https://appstoreconnect.apple.com
+Link da Apple Store Connect, onde os apps são gerenciados: https://appstoreconnect.apple.com
 
 # Administrador/Fatec
 É necessário que a Fatec crie os aplicativos para os alunos gerenciarem, pois apenas administradores podem criar o Bundle ID (identificador único do app usado no build, ex: com.fateczl.nomeapp), que é um requisito para a criação do aplicativo.
@@ -16,12 +16,10 @@ Para isso, acesse a conta de desenvolvedor em: https://developer.apple.com/accou
 Clique no ícone "+" para adicionar um novo Bundle ID.
 
 <img src="./img/Imagem7.png?v=1">
-<br>
 
 Deixe marcado a primeira opção e clique em continuar. Depois deixe novamente a primeira opção marcada e clique em continuar mais uma vez.
 <img src="./img/Imagem8.png?v=1">
 <img src="./img/Imagem9.png?v=1">
-<br>
 
 Adicione uma descrição para o App ID e o valor do Bundle ID, como: com.fateczl.nomeapp 
 
@@ -34,7 +32,6 @@ Adicione uma descrição para o App ID e o valor do Bundle ID, como: com.fateczl
 - Capability Requests (Solicitações de capacidade): São os pedidos que seu app faz para usar alguma capacidade, e que precisam ser aprovados pela Apple durante a submissão para garantir que o app tem autorização para usar esses recursos.
 
 <img src="./img/Imagem10.png?v=1">
-<br>
 
 ## Criar App
 A após ter criado o Bundle ID, é preciso criar o app (é possível adicionar permissão para os alunos criarem o aplicativo, portanto apenas a etapa de criação do Bundle ID é preciso ser feito pela Fatec).
@@ -74,13 +71,11 @@ Após aceitar o convite, você verá uma tela como essa, com os aplicativos que 
 Ao selecionar o aplicativo, é apresentado a tela de configuração do app que contém a lista de passos para a publicação na Apple Store
 
 <img src="./img/Imagem6.png?v=1">
-<br>
 
 ### Plataformas
 Na parte superior direita do aplicativo é listado todas as plataformas selecionadas para seu app (iOS, macOS, tvOS ou visionOS) e em cada uma é possível adicionar captura de telas e descrições sobre o aplicativo.
 
 <img src="./img/Imagem15.jpeg?v=1">
-<br>
 
 ### Visualizações e capturas de tela
 É aqui que você vai adicionar as capturas de telas para a plataforma selecionada 
@@ -89,7 +84,6 @@ As capturas de tela devem estar no formato JPG ou PNG e no espaço de cores RGB.
 
 <img src="./img/Imagem16.png?v=1">
 <img src="./img/Imagem18.png?v=1">
-<br>
 
 Mais abaixo, é preciso aidionar as informações do seu aplicativo. Nenhuma dessas informações é obrigatória.
 
@@ -118,19 +112,16 @@ O nome da pessoa ou entidade que detém os direitos exclusivos do seu aplicativo
 Especifique as regiões geográficas compatíveis com seu aplicativo. O arquivo deve estar no formato .geojson e pode conter apenas um elemento MultiPolygon. [Saiba Mais](https://developer.apple.com/help/app-store-connect/reference/platform-version-information)
 
 <img src="./img/Imagem19.png?v=2">
-<br>
 
 ### Clipe de Aplicativo
 Não é obrigatório. Permite ao usuário acessar uma parte do app sem precisar instalá-lo completamente. Para isso, é necessário primeiro enviar uma compilação que contenha o clipe. Após o envio, é possível adicionar uma imagem de cabeçalho no formato JPG ou PNG (1800x1200 px), um subtítulo com até 56 caracteres descrevendo a ação principal do clipe e selecionar a ação desejada (como fazer um pagamento ou reserva). Quando tudo estiver configurado corretamente, o link do clipe será gerado automaticamente para ativação via Safari.
 
 <img src="./img/Imagem20.png?v=1">
-<br>
 
 ### Clipe de Aplicativo
 Não é obrigatório. Capturas de tela específicas para aplicativos que usam iMessage.
 
 <img src="./img/Imagem21.png?v=1">
-<br>
 
 ### Build
 Mostra todos os buids que você subiu no seu aplicativo.
@@ -138,7 +129,6 @@ Mostra todos os buids que você subiu no seu aplicativo.
 
 Se você ainda não subiu, terá essa tela
 <img src="./img/Imagem23.png?v=1">
-<br>
 
 ### Game Center (Central de Jogos)
 Marque essa opção se o seu aplicativo for um jogo
@@ -153,6 +143,9 @@ Sobre o anexo:
 
         Você pode anexar documentação específica do aplicativo, vídeos de demonstração e outros itens para ajudar a evitar atrasos durante o processo de revisão do aplicativo. Certifique-se de usar arquivos com as seguintes extensões: .pdf, .doc, .docx, .rtf, .pages, .xls, .xlsx, .numbers, .zip, .rar, .plist, .crash, .jpg, .png, .mp4 ou .avi.
 
+<img src="./img/Imagem24.png?v=1">
 
 ### Lançamento da versão da App Store
 Você decide se o aplicativo vai ser lançado automaticamente ou manualmente ao ser aprovado pela Apple. 
+
+<img src="./img/Imagem25.png?v=1">
