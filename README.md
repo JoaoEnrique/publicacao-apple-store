@@ -1,11 +1,13 @@
-# Manual de como publicar na Apple Store
+# 📖 Manual de como publicar na Apple Store
 Documentação criada para os alunos e para a Fatec Zona Leste publicar seus aplicativos 
 
-Documentação para a Play Store: https://github.com/JoaoEnrique/publicacao-play-store
+<img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Documentação para a Play Store:** https://github.com/JoaoEnrique/publicacao-play-store
 
-Link da Apple Store Connect, onde os apps são gerenciados: https://appstoreconnect.apple.com
+## 🔗 **Links**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Apple Developer Account**: https://developer.apple.com/account
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Apple Store Connect (onde os apps são gerenciados:)**: https://appstoreconnect.apple.com
 
-# Administrador/Fatec
+## 🏫 Administrador/Fatec
 É necessário que a Fatec crie os aplicativos para os alunos gerenciarem, pois apenas administradores podem criar o Bundle ID (identificador único do app usado no build, ex: com.fateczl.nomeapp), que é um requisito para a criação do aplicativo.
 
 ### Criar Bundle ID
@@ -18,6 +20,7 @@ Clique no ícone "+" para adicionar um novo Bundle ID.
 <img src="./img/Imagem7.png?v=1">
 
 Deixe marcado a primeira opção e clique em continuar. Depois deixe novamente a primeira opção marcada e clique em continuar mais uma vez.
+
 <img src="./img/Imagem8.png?v=1">
 <img src="./img/Imagem9.png?v=1">
 
