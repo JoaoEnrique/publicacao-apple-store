@@ -3,7 +3,7 @@ Documentação criada para os alunos e para a Fatec Zona Leste publicar seus apl
 
 <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Documentação para a Play Store:** https://github.com/JoaoEnrique/publicacao-play-store
 
-## 🔗 **Links**
+## **Links**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Apple Developer Account**: https://developer.apple.com/account
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Apple Store Connect (onde os apps são gerenciados:)**: https://appstoreconnect.apple.com
 
